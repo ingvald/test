@@ -18,7 +18,7 @@
             <p>
                 what value is desired? _ca_ what contribution from team is desired?
             </p>
-        </detail>   
+        </details>  
         <p>
             notes...
         </p>
