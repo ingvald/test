@@ -26,3 +26,20 @@ testing testing
 </div>
 
 <kbd>ttttt</kbd>
+
+<div float=right>
+<h3>topic</h3>
+content/ note
+</div>
+
+<p float=right>
+<h3>topic</h3>
+p content/ note
+</p>
+
+<kbd>
+<div float=right>
+<h3>topic</h3>
+content/ note
+</div>
+</kbd>
