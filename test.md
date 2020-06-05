@@ -14,14 +14,22 @@
         <details>
             <summary>
                 (why..)
-            </summary>
-            <p>
-                what value is desired? _ca_ what contribution from team is desired?
-            </p>
-        </details>  
-        <p>
-            notes...
-        </p>
+            </summary>  
+            
+* what is desired?
+    * value
+    * impact
+    * outcome
+* _ca_ what contribution from team is desired?
+            
+</details>  
+            
+* md test1
+* t2
+               
+<p>
+    notes...
+</p>
     </kbd>
 </div>
 
