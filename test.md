@@ -10,7 +10,9 @@
 
 testing testing
 
-<div class="border">border testing</div>
+<div class="border">
+    border testing
+</div>
 
 <div style="float:right">float right</div>
     <div align=center>center testing</div>
