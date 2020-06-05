@@ -14,7 +14,8 @@ testing testing
     border testing
 </div>
 
-<div style="float:right">float right</div>
+<p style="float:right">float right</p>
+
     <div align=center>center testing</div>
 
 <div align=right>
@@ -23,3 +24,5 @@ testing testing
     content/ note
 
 </div>
+
+<kbd>ttttt</kbd>
