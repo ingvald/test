@@ -11,13 +11,14 @@
 <div>
     <kbd align=left>
         <h2>purpose</h2>
-            <details>
-                <summary>
-                    (why..)
-                </summary>
-                <p>
-                    what value is desired? _ca_ what contribution from team is desired?
-            </detail>   
+        <details>
+            <summary>
+                (why..)
+            </summary>
+            <p>
+                what value is desired? _ca_ what contribution from team is desired?
+            </p>
+        </detail>   
         <p>
             notes...
         </p>
