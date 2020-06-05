@@ -6,7 +6,7 @@
 
 testing testing
 
-<div align=center>center</div>
+<div align=center border=1>center</div>
 
 testing testing
 
