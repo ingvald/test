@@ -1,13 +1,15 @@
 <h1>starter notes</h1>
 <details>
-    <sub>
-        <summary>        
+    <summary>        
+        <sub>
             (what is this?)
-        </summary>
+        </sub>
+    </summary>
         <div>
-            intrapreneur canvas, capture expectations, build common understanding of "the big picture around the work"
+            <sub>
+                intrapreneur canvas, capture expectations, build common understanding of "the big picture around the work"
+            </sub>
         </div>
-    </sub>
 </details>
 
 <div>
@@ -19,19 +21,14 @@
                     (why..)
                 </sub>                    
             </summary>  
-            <sub>
             
-* what is desired?
-    * value
-    * impact
-    * outcome
-* _ca_ what contribution from team is desired?
+* <sub>ca what value/ impact/ outcome is desired? </sub>
+* <sub>_ca_ what contribution from team is desired?</sub>
            
-</sub>
 </details>  
-            
-* md test1
-* t2
+
+* test
+* ...
                
 <p>
     notes...
@@ -43,29 +40,28 @@
 <div align=right>
     <kbd align=left>
         <h2>timing</h2>
-        <details>
-            <sub>
-                <summary>
-                    (why..)
-                </summary>  
-                
-* what is desired?
-    * value
-    * impact
-    * outcome
-* _ca_ what contribution from team is desired?
+        <details>            
+            <summary>
+                <sub>
+                    (what..)
+                </sub>                    
+            </summary>  
             
-</sub>
+* <sub>ca what value/ impact/ outcome is desired? </sub>
+* <sub>_ca_ what contribution from team is desired?</sub>
+           
 </details>  
-            
-* md test1
-* t2
+
+* test
+* ...
                
 <p>
     notes...
 </p>
     </kbd>
 </div>
+
+
 
 
 
