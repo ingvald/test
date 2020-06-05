@@ -1,21 +1,26 @@
 <h1>starter notes</h1>
 <details>
     <summary>        
-        _(what is this?)_
+        (what is this?)
     </summary>
-    
+    <div>
+        intrapreneur canvas, capture expectations, build common understanding of "the big picture around the work"
+    </div>
 </details>
 
 <div>
     <kbd align=left>
-        <h2>purpose, why</h2>
+        <h2>purpose</h2>
             <details>
                 <summary>
-                    _(why..)_
+                    (why..)
                 </summary>
-                intrapreneur canvas, capture expectations, build common understanding of "the big picture around the work"
+                <p>
+                    what value is desired? _ca_ what contribution from team is desired?
             </detail>   
+        <p>
             notes...
+        </p>
     </kbd>
 </div>
 
