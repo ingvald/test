@@ -41,6 +41,7 @@ p content/ note
 <div align=right>
 <kbd align=left>
 <h3>topic</h3>
-content/ note
+content/ 
+    <span style="font-size: 50%">note</span>
 </kbd>
 </div>
