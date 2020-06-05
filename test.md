@@ -13,19 +13,21 @@
 <div>
     <kbd align=left>
         <h2>purpose</h2>
-        <details>
+        <details>            
             <summary>
                 <sub>
                     (why..)
-                </sub>
+                </sub>                    
             </summary>  
+            <sub>
             
 * what is desired?
     * value
     * impact
     * outcome
 * _ca_ what contribution from team is desired?
-            
+           
+</sub>
 </details>  
             
 * md test1
@@ -39,7 +41,7 @@
 
 
 <div align=right>
-    <kbd>
+    <kbd align=left>
         <h2>timing</h2>
         <details>
             <sub>
