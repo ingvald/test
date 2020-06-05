@@ -1,18 +1,22 @@
 <h1>starter notes</h1>
 <details>
-    what is this?
+    <summary>        
+        _(what is this?)_
+    </summary>
+    
 </details>
 
 <div>
- <kbd align=left>
-  <h2>purpose, why</h2>
-   <details>
-      wah
-   </detail>
-   
-   notes...
-   
- </kbd>
+    <kbd align=left>
+        <h2>purpose, why</h2>
+            <details>
+                <summary>
+                    _(why..)_
+                </summary>
+                intrapreneur canvas, capture expectations, build common understanding of "the big picture around the work"
+            </detail>   
+            notes...
+    </kbd>
 </div>
 
 <div align=right>
