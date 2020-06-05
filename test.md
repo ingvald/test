@@ -39,7 +39,7 @@ p content/ note
 
 
 <div align=right>
-<kbd>
+<kbd align=left>
 <h3>topic</h3>
 content/ note
 </kbd>
