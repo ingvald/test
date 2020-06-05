@@ -38,7 +38,7 @@ p content/ note
 </p>
 
 <kbd>
-<div float=right>
+<div align=right>
 <h3>topic</h3>
 content/ note
 </div>
