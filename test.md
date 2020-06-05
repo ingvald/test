@@ -1,7 +1,9 @@
 <h1>starter notes</h1>
 <details>
-    <summary>        
-        (what is this?)
+    <summary>
+        <sub>        
+            (what is this?)
+        </sub>
     </summary>
     <div>
         intrapreneur canvas, capture expectations, build common understanding of "the big picture around the work"
@@ -13,7 +15,9 @@
         <h2>purpose</h2>
         <details>
             <summary>
-                (why..)
+                <sub>
+                    (why..)
+                </sub>
             </summary>  
             
 * what is desired?
@@ -33,28 +37,32 @@
     </kbd>
 </div>
 
-<div align=right>
- <kbd align=left>
-  <h2>timing</h2>
-   <details>
-      ymse
-   </detail>
-   
-   notes...
-   
- </kbd>
-</div>
 
-<div align=center>
- <kbd align=left>
-  <h2>people</h2>
-   <details>
-      various
-   </detail>
-   
-   notes...
-   
- </kbd>
+<div align=right>
+    <blockquote align=left>
+        <h2>purpose</h2>
+        <details>
+            <summary>
+                <sub>
+                    (why..)
+                </sub>
+            </summary>  
+            
+* what is desired?
+    * value
+    * impact
+    * outcome
+* _ca_ what contribution from team is desired?
+            
+</details>  
+            
+* md test1
+* t2
+               
+<p>
+    notes...
+</p>
+    </blockquote>
 </div>
 
 
