@@ -1,3 +1,5 @@
+[__TOC__]
+
 <h1>starter notes</h1>
 <details>
     <summary>        
@@ -11,6 +13,8 @@
             </sub>
         </div>
 </details>
+
+<h2>test</h2>
 
 <div>
     <kbd align=left>
