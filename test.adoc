@@ -1,1 +1,25 @@
+:toc:
+:toc-placement!:
 
+(in https://asciidoctor.org/docs/asciidoc-writers-guide/[asciidoc] for ToC)
+
+toc::[]
+
+.Format of items here:
+* Sorted on date, descending
+* Format/ include: 
+- ca what (was discussed, concluded, clarified)
+- ca when, who
+
+## stakeholder log test
+
+* testing 
+* placeholder, husk kor notat ligg...
+
+# yo
+
+bla bla
+
+### ey
+
+blabla
