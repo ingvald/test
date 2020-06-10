@@ -88,11 +88,39 @@ testing testing
 <div align=right>
 <h3>topic</h3>
     
-    content/ note
+    content/ note (tab indent => wide area marked)
 
 </div>
 
-<kbd>ttttt</kbd>
+<kbd>ttttt  kbd.. </kbd>
+
+<pre>
+test pre..
+ blabla
+</pre>
+
+<blockquote>
+test blockquote..
+ blabla
+</blockquote>
+
+<code>
+test code..
+ blabla
+</code>
+
+<aside>
+test aside..
+ blabla
+</aside>
+
+<section>
+test pre..
+ blabla
+</section>
+
+
+
 
 <div float=right>
 <h3>topic</h3>
