@@ -2,27 +2,27 @@
 
 <h1>starter notes</h1>
 
-<kbd>
+<kbd style="margin:10px; padding 10px">
     intrapreneur canvas, <kbd>capture expectations,</kbd> 
 <kbd>build common understanding of 
 "the big picture around the work"
 </kbd>
 </kbd>
-<kbd>
+<kbd style="margin:10px; padding 10px">
 testing testing 
 testing testing testing testing
 </kbd>
-<kbd>
+<kbd style="margin:10px; padding 10px">
 testing 
 testing testing 
 testing 
 testing 
 testing
 </kbd>
-<kbd>
+<kbd style="margin:10px; padding 10px">
 testing testing testing testing testing testing
 </kbd>
-<kbd>
+<kbd style="margin:10px; padding 10px">
 testing 
 testing
 testing testing
