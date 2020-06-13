@@ -1,4 +1,4 @@
-[__TOC__]
+
 
 <h1>starter notes</h1>
 <details>
@@ -67,7 +67,17 @@
 
 
 
+<hr />
 
+<kbd align=left>left</kbd>
+<kbd align=center>center</kbd>
+<kbd align=right>rite</kbd>
+
+<br />
+
+<kbd align=right>right</kbd>
+<kbd align=center>ctr</kbd>
+<kbd align=left>left</kbd>
 
 * test <small>testing</small>
 
