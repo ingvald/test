@@ -2,27 +2,27 @@
 
 <h1>starter notes</h1>
 
-<kbr>
+<kbd>
 intrapreneur canvas, capture expectations, build common understanding of "the big picture around the work"
-</kbr>
-<kbr>
+</kbd>
+<kbd>
 testing testing testing testing testing testing
-</kbr>
-<kbr>
+</kbd>
+<kbd>
 testing testing testing testing testing testing
-</kbr>
-<kbr>
+</kbd>
+<kbd>
 testing testing testing testing testing testing
-</kbr>
-<kbr>
+</kbd>
+<kbd>
 testing testing testing testing testing testing
-</kbr>
-<kbr>
+</kbd>
+<kbd>
 testing testing testing testing testing testing
-</kbr>
-<kbr>
+</kbd>
+<kbd>
 testing testing testing testing testing testing
-</kbr>
+</kbd>
 
 
 <details>
