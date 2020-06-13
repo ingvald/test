@@ -24,10 +24,8 @@ testing testing testing testing testing testing
 </kbd>
 <kbd>
 testing 
-    
 testing
 testing testing
-
 testing
 testing
 </kbd>
