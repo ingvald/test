@@ -69,7 +69,12 @@
 
 <hr />
 
-<kbd align=left>left</kbd>
+<kbd align=left>
+    left 
+    yo
+    
+    lbr
+</kbd>
 <kbd align=center>center</kbd>
 <kbd align=right>rite</kbd>
 
