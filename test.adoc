@@ -12,10 +12,86 @@ toc::[]
 - ca what (was discussed, concluded, clarified)
 - ca when, who
 
+
+## hhhhh
+
+++++
+<kbd>
+    <h2>purpose</h2>
+    <details>
+        <summary>
+            <sub>
+                (why..)
+            </sub>
+        </summary>
+
+* <sub>ca what is the aim of the effort?  what value/ impact/ outcome/ benefit is desired? </sub>
+* <sub>ca what is the goal for team contribution?</sub>
+
+</details>
+
+* overall desired outcome/ impact: ...
+* our contribution: ...
+
+<p>
+    ...
+</p>
+    </kbd>
+    
+++++
+
+##  tttttt
+
+1llll
+
+++++
+<div style="float:right">
+rrrrr
+</div>
+
+<div style="float:left">
+2 llllll
+</div>
+
+++++
+
 ## stakeholder log test
 
 * testing 
 * placeholder, husk kor notat ligg...
+
+[cols="1,1"]
+|===
+|testing
+|test...
+
+*timing*
+
+.(what..)
+[%collapsible]
+====
+* ca which deadlines, (calendar) horizon?
+* start ca how soon?
+* flexibility in timing? (ref uncertainty, complexity, changes)
+====
+* ...
+****
+
+|===
+
+
+*timing*
+
+.(what..)
+[%collapsible]
+====
+* ca which deadlines, (calendar) horizon?
+* start ca how soon?
+* flexibility in timing? (ref uncertainty, complexity, changes)
+====
+* ...
+****
+
 
 ## yo
 
