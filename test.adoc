@@ -1,5 +1,6 @@
 :toc:
 :toc-placement!:
+:stylesheet:test.css
 
 (in https://asciidoctor.org/docs/asciidoc-writers-guide/[asciidoc] for ToC)
 
