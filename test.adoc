@@ -25,11 +25,11 @@ bla bla
 blabla
 
 ++++
+<style>div {border: 1px solid red}</style>
 <div style="float:right">
 
-
-[role="canvas"]
-****
+<div>
+<pre>
 *timing*
 
 .(what..)
