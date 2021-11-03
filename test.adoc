@@ -23,3 +23,24 @@ bla bla
 ### ey
 
 blabla
+
+++++
+<div style="float:right">
+
+
+[role="canvas"]
+****
+*timing*
+
+.(what..)
+[%collapsible]
+====
+* ca which deadlines, (calendar) horizon?
+* start ca how soon?
+* flexibility in timing? (ref uncertainty, complexity, changes)
+====
+* ...
+****
+
+</div>
+++++
